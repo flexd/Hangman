@@ -1,8 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">App name.</string>
-    <string name="action_settings">Settings</string>
-    <string name="hello_world">Hey\'a world!</string>
+    <string name="app_name">Hangman</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="title_activity_menu">Main menu</string>
+    <string name="new_game_button">New Game</string>
+    <string name="rules_button">Rules</string>
+    <string name="exit_button">Exit</string>
+    <string name="back_button">Back</string>
+    <string name="rules">The word to guess is represented by a row of dashes, giving the number of letters. If the guessing player suggests a letter or number which occurs in the word, the game writes it in all its correct positions. If the suggested letter or number does not occur in the word, the game draws one element of the hanged man stick figure as a tally mark. The game is over when: The guessing player completes the word
+	or the poor man is hung. Play to save the man marked for death!</string>
     
+    <string name="title_activity_rules">Game rules</string>
+    <string name="hangmanName">Hangman!</string>
+    <string name="you_won">You guessed the correct word!</string>
+    <string name="you_died">You\'ve died silly! :-(</string>
+    <string name="popup_title">What do you want to do now?</string>
+    <string name="sound_preference_title">Effects</string>
+    <string name="sound_preference_summary">Sound effects enabled</string>
+    <string name="sound_preference_category_title">Sounds</string>
+	<string name="you_won_message">You have guessed the correct word: %1$s, you have won: %2$d times, and lost %3$d times.</string>
+	<string name="you_lost_message">You fail! The word was: %1$s, you have won: %2$d times, and lost %3$d times.</string>
 </resources>

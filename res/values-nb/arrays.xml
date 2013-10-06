@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="wordArray">
+		<item>pakke</item>
+		<item>blek</item>
+		<item>plastikk</item>
+		<item>påle</item>
+		<item>pakke</item>
+		<item>helle</item>
+		<item>privat</item>
+		<item>ordentlig</item>
+		<item>beskyttelse</item>
+		<item>elev</item>
+		<item>bakende</item>
+		<item>nektet</item>
+		<item>brøl</item>
+		<item>roma</item>
+		<item>russland</item>
+		<item>sal</item>
+		<item>hylle</item>
+		<item>bomberom</item>
+		<item>skinne</item>
+		<item>vaskk</item>
+		<item>slave</item>
+		<item>splitte</item>
+		<item>tropp</item>
+		<item>tropikalsk</item>
+		<item>typisk</item>
+		<item>vertikal</item>
+		<item>seier</item>
+		<item>reise</item>
+		<item>velkommen</item>
+		<item>plystre</item>
+		<item>bredt</item>
+		<item>bekymret</item>
+		<item>snurret</item>
+		<item>forfatter</item>
+	</array>
+</resources>

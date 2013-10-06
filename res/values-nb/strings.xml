@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hangman</string>
+    <string name="title_activity_settings">Innstillinger</string>
+    <string name="title_activity_menu">Hovedmeny</string>
+    <string name="new_game_button">Nytt spill</string>
+    <string name="rules_button">Regler</string>
+    <string name="exit_button">Avslutt</string>
+    <string name="back_button">Tilbake</string>
+   
+    <string name="rules">Ordet man skal gjette er representert ved en rad understreker "_", som også sier deg antall bokstaver som må gjettes \
+        Når spilleren (deg) trykker på en av knappene gjetter du at den bokstaven er med i ordet. Er det riktig vil den fylles ut på alle riktige plasser. \
+        Er det feil vil bokstaven dukke opp ovenfor mannen som blir hengt og mannen er ett steg nærmere døden! \
+        Spillet er over når enten spilleren har gjettet riktig ord eller mannen blir hengt!
+        
+        Spill for å redde den dødsdømte mannen, det er opp til deg å redde han!
+        
+        </string>
+    
+    <string name="title_activity_rules">Spillregler</string>
+    <string name="hangmanName">Hangman!</string>
+    <string name="you_won">Du gjettet riktig ord!!</string>
+    <string name="you_died">Du døde dummen! :-(</string>
+    <string name="popup_title">Vil du spille videre?</string>
+    <string name="sound_preference_title">Lydeffekter</string>
+    <string name="sound_preference_summary">Lydeffekter av eller på</string>
+    <string name="sound_preference_category_title">Lyder</string>
+	<string name="you_won_message">Du gjettet det riktige ordet, %1$s, du har vunnet %2$d ganger, og tapt %3$d ganger denne sesjonen.</string>
+	<string name="you_lost_message">Du tapte! Ordet du skulle gjette var: %1$s, du har vunnet %2$d ganger, og tapt %3$d ganger denne sesjonen.</string>
+</resources>
